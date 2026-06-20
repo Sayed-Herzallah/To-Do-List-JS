@@ -5,8 +5,7 @@ A classic, lightweight task management web application built using vanilla JavaS
 ---
 
 ## 📌 Overview
-
-**To-Do-List-JS** is an intuitive, single-page task manager. It handles keyboard/click listeners, transitions, and state saves, ensuring user data persists after page refreshes.
+To-Do-List-JS is an intuitive, single-page task manager. It handles keyboard/click listeners, transitions, and state saves, ensuring user data persists after page refreshes.
 
 ---
 
@@ -20,21 +19,22 @@ A classic, lightweight task management web application built using vanilla JavaS
 
 ---
 
-## 🚀 Key Features
-
+## 🚀 Core Features
 * 💾 **Local Storage:** Keep records safe across browser sessions.
 * 💫 **Visual Animations:** Satisfying transitions on checking/deleting items.
 * 🚫 **Input Validation:** Restricts adding empty tasks.
 
 ---
 
-## 👨&zwj;💻 Author
-
-**Sayed Herzallah**  
-Frontend Developer
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/To-Do-List-JS.git
+   ```
+2. Open `index.html` in your browser.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+## 👨‍💻 Author
+**Sayed Herzallah**  
+Full Stack Developer
